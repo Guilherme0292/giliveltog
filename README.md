@@ -1,2 +1,2 @@
 $ cat .giliveltog
- *.pyc linguist-language=Python
+*.pyc linguist-language=Python
