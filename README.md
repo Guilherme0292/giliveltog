@@ -1,2 +1,2 @@
-$ cat .giliveltog
-*.pyc linguist-language=Python
+1  $ cat .giliveltog
+2  *.pyc linguist-language=Python
