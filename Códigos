@@ -1,4 +1,0 @@
-apt update && apt upgrade 
-pkg install python git 
-git clone  
-cd giliveltog python -m pip install -r
