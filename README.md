@@ -1,2 +1,1 @@
-1  $ cat .giliveltog
-2  *.pyc linguist-language=Python
+$ cat .gitattributes*.pyc linguist-language=Python
